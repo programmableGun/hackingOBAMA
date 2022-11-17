@@ -9,4 +9,4 @@ client.once('ready', () => {
     }, 500);
 });
 
-client.login('NzgyNzk5MzYyMjM3MDA1ODM1.X8Rctw.Owa982bqeqs_9X1K85JXrzjYWpk');
+client.login('INSERT TOKEN HERE');
